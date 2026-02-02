@@ -1,0 +1,27 @@
+.navbar-nav{
+    font-size: 18px;
+    
+}
+.nav-link{
+    color: #fff;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+.card{
+
+    text-align: center;
+    width: 18rem;
+    background-color: rgb(49, 180, 44);
+    color: #fff;
+}
+.card:hover{
+    background-color: rgb(1, 70, 1);
+    transition: .5s ease-in;
+     }
+
+.info{
+    justify-content: space-between;
+}
+
+
